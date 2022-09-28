@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm @ZerxysZ</h1>
 <h3 align="center">👀 I’m interested in all sorts of programming</h3>
-<a href = "https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6"> 
 - 🔭 I’m currently working on **Enigma**
 
 - 🌱 I’m currently learning **Ruby, Python, and C++**
