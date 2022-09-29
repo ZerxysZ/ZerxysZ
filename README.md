@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm @ZerxysZ</h1>
-<h3 align="center">👀 I’m interested in all sorts of programming</h3>
-- 🔭 I’m currently working on **Enigma**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE00F7&width=555&lines=Hello%2C+I'm+ZerxysZ!;I'm+interested+in+all+sorts+of+programming!;Aspiring+Computer+Engineer)](https://git.io/typing-svg)
+
+- 🔭 I’m currently working on **Aurora**
 
 - 🌱 I’m currently learning **Ruby, Python, and C++**
 
 - 👯 I’m looking to collaborate on **Python Projects in the future**
 
-- 📫 How to reach me **ihatetrump123456@gmai.com**
+- 📫 How to reach me **ihatetrump123456@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
