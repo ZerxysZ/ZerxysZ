@@ -19,4 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerxysz&show_icons=true&locale=en" alt="zerxysz" /></p>
 
 ## Snake eating my contribution graph
-![Snake animation](https://github.com/{{ZerxysZ}}/{{ZerxysZ}}/blob/output/github-contribution-grid-snake.svg)
+
