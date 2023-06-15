@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **R, Java, and C++**
 
-- 👯 I’m looking to collaborate on **Python in the future**
+- 👯 I’m looking to collaborate on **Python projects in the future**
 
 - 📫 How to reach me **ihatetrump123456@gmail.com**
 
